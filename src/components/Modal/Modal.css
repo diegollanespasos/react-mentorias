@@ -1,0 +1,13 @@
+.modal.activated {
+    border: 5px solid snow;
+    width: 400px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal.deactivated{
+    display: none;
+}
